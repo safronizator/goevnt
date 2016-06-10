@@ -3,7 +3,7 @@ Package goevnt implements publish-subscribe pattern very simple manner.
 Just embed BaseEmitter in your structs to let them emit events.
 
 ## Disclaimer
-Lib is under active development and not production-ready for the moment (some API may be added or changed). Use it on your own risk.
+Lib is under active development. Some API may be added or changed.
 
 ## Example:
 ```go
