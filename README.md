@@ -43,6 +43,9 @@ func main() {
 }
 ```
 
+## API
+[![GoDoc](https://godoc.org/github.com/safronizator/goevnt?status.svg)](https://godoc.org/github.com/safronizator/goevnt)
+
 ## TODOs:
 - Subscribe to event group (with wildcards)
 - Tests
