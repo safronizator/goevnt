@@ -7,10 +7,12 @@ Lib is under active development. Some API may be added or changed.
 
 ## Example:
 ```go
+package main
+
 import (
-  "fmt"
-  "time"
-  "github.com/safronizator/goevnt"
+	"fmt"
+	"time"
+	"github.com/safronizator/goevnt"
 )
 
 type SomeCounter struct {
